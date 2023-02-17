@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEAI_Crypt_Lib", "SEAI_Crypt_Lib\SEAI_Crypt_Lib.csproj", "{E4DF2135-9B21-40CC-AF2E-54F7D1AE63E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4DF2135-9B21-40CC-AF2E-54F7D1AE63E7}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DF2135-9B21-40CC-AF2E-54F7D1AE63E7}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E4DF2135-9B21-40CC-AF2E-54F7D1AE63E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DF2135-9B21-40CC-AF2E-54F7D1AE63E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
